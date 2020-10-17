@@ -1,0 +1,70 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - numGuessing",
+            "request": "launch",
+            "mainClass": "numGuessing",
+            "projectName": "cs_105_569466c9"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - numGuessing",
+            "request": "launch",
+            "mainClass": "assignment.numGuessing",
+            "projectName": "cs_105_569466c9"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - lecture_20200923",
+            "request": "launch",
+            "mainClass": "lecture_20200923",
+            "projectName": "cs_105_569466c9"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - lecture_20200923",
+            "request": "launch",
+            "mainClass": "Lecture.lecture_20200923",
+            "projectName": "cs_105_569466c9"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Lab_09162020",
+            "request": "launch",
+            "mainClass": "Lab_09162020",
+            "projectName": "cs_105_569466c9"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Lect_09162020",
+            "request": "launch",
+            "mainClass": "Lect_09162020",
+            "projectName": "cs_105_569466c9"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Assinment0909",
+            "request": "launch",
+            "mainClass": "Assinment0909",
+            "projectName": "cs_105_569466c9"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Assgin.java",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Assgin<cs_105_569466c9>",
+            "request": "launch",
+            "mainClass": "Assgin",
+            "projectName": "cs_105_569466c9"
+        }
+    ]
+}
